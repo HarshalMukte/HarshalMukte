@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshalMukte
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on making cool css animations and websites
+- 👀 I’m Front-end Developer
+- 🌱 I’m currently working on React-js
+- 💞️ I’m looking to collaborate on making cool css animations websites and web applications.
 - 📫 How to reach me : https://www.linkedin.com/in/harshalmukte/
 
 <!---
