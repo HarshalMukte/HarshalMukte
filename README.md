@@ -1,5 +1,5 @@
 
-<a href="https://harshal-mukte.vercel.app">
+<a href="https://harshal-mukte.vercel.app" target="_blank">
   <img align="center" src="https://github.com/HarshalMukte/HarshalMukte/assets/86140119/d241dfee-e901-4af4-95e2-82eb77b94ac6" alt="Hero Image" />
 </a>
 
